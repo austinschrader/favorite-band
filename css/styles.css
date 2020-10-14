@@ -1,0 +1,17 @@
+h1 {
+  font-size: large;
+  font-weight: bolder;
+  text-align: center;
+}
+.sidebar{
+  width: 30%;
+  float: right;
+  background: yellowgreen
+}
+.column{
+  width: 300px;
+  float: left;
+}
+.real-freddie {
+  width:300px;
+}
